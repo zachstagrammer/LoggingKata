@@ -15,6 +15,5 @@ namespace LoggingKata.Test
         {
             //TODO: Complete ShouldParseLine
         }
-
     }
 }
