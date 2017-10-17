@@ -19,7 +19,7 @@ namespace LoggingKata
             LogManager.GetLogger(
                 System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
-        public IEnumerable<ITrackable> Parse(string line)
+        public ITrackable Parse(string line)
         {
             return null; //TODO Implement
         }
