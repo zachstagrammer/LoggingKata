@@ -1,5 +1,5 @@
 # LoggingKata
-An exercise in geolocation, csv parsing and logging
+An exercise in geolocation, csv parsing, and logging
 
 ## Step 1
 * Complete all the TODOs while adding appropriate log statements along the way!
